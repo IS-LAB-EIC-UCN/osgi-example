@@ -1,0 +1,6 @@
+/run/media/dsanmartins/517f098f-0397-4c5b-960f-b04c550eb3f5/Dropbox/eclipse-workspace/cl.ucn.felix.biblioteca.api/src/main/java/cl/ucn/felix/biblioteca/api/Libro.java
+/run/media/dsanmartins/517f098f-0397-4c5b-960f-b04c550eb3f5/Dropbox/eclipse-workspace/cl.ucn.felix.biblioteca.api/src/main/java/cl/ucn/felix/biblioteca/api/ExepcionLibroInvalido.java
+/run/media/dsanmartins/517f098f-0397-4c5b-960f-b04c550eb3f5/Dropbox/eclipse-workspace/cl.ucn.felix.biblioteca.api/src/main/java/cl/ucn/felix/biblioteca/api/ExepcionLibroExistente.java
+/run/media/dsanmartins/517f098f-0397-4c5b-960f-b04c550eb3f5/Dropbox/eclipse-workspace/cl.ucn.felix.biblioteca.api/src/main/java/cl/ucn/felix/biblioteca/api/ExepcionLibroNoEncontrado.java
+/run/media/dsanmartins/517f098f-0397-4c5b-960f-b04c550eb3f5/Dropbox/eclipse-workspace/cl.ucn.felix.biblioteca.api/src/main/java/cl/ucn/felix/biblioteca/api/LibroMutable.java
+/run/media/dsanmartins/517f098f-0397-4c5b-960f-b04c550eb3f5/Dropbox/eclipse-workspace/cl.ucn.felix.biblioteca.api/src/main/java/cl/ucn/felix/biblioteca/api/Inventario.java
